@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Everyone!!
 
 <!--
 **Madhav89755/Madhav89755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello Everyone,
 I am a Python-Django Developer currently learning AWS and figuring out README.md in Github.
