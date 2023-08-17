@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madhav Sharma</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav89755&label=Profile%20views&color=0e75b6&style=flat" alt="madhav89755" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav89755" alt="madhav89755" /></a> </p>
 
 - 🔭 I’m currently working on [Lendpartnerz](https://lendpartnerz.com/)
 
 - 🌱 I’m currently learning **AWS Amplify, React**
+
+- 👯 Play Tic Tac Toe with friends [https://madhav89755.github.io/tic%20tac%20toe/ticTacToe.html](https://madhav89755.github.io/tic%20tac%20toe/ticTacToe.html)
 
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
