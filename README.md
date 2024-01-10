@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav89755" alt="madhav89755" /></a> </p>
 
-- 🔭 I’m currently working on [Lendpartnerz](https://lendpartnerz.com/)
+- 🔭 I’m currently working on [InspironLabs](https://www.inspironlabs.com/)
 
 - 🌱 I’m currently learning **AWS Amplify, React**
 
-- 👯 Play Tic Tac Toe with friends [https://madhav89755.github.io/tic%20tac%20toe/ticTacToe.html](https://madhav89755.github.io/tic%20tac%20toe/ticTacToe.html)
+- 👯 Play [Tic Tac Toe](https://madhav89755.github.io/tic%20tac%20toe/ticTacToe.html) with friends
 
-- 💬 Ask me about **Python, Django, Django Rest Framework**
+- 💬 Ask me about **Python, Django, Flask, Django Rest Framework**
 
 - 📫 How to reach me **madhav.sharma2002.12@gmail.com**
 
