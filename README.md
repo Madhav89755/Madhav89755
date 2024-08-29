@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [InspironLabs](https://www.inspironlabs.com/)
 
-- 🌱 I’m currently learning **AWS Amplify, React**
+- 🌱 I’m currently learning **NodeJS, ExpressJS**
 
 - 👯 Play [Tic Tac Toe](https://madhav89755.github.io/tic%20tac%20toe/ticTacToe.html) with friends
 
